@@ -1,0 +1,43 @@
+# Title: nielsdimmers/hosts
+#
+# This host file blocks Dutch gambling websites as specified by Dutch government (https://kansspelautoriteit.nl/veilig-spelen/kansspelwijzer/) and other gambling related sites I stumbled upon
+#
+# Date: 02 Aug 2025 19:45:00 (UTC)
+# Extensions added to this file: gambling
+# Number of unique domains: 30
+#
+# Fetch the latest version of this file: ???
+# Project home page: https://github.com/nielsdimmers/BlocklistDistractors
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+
+#=====================================
+# Title: Hosts contributed by Niels Dimmers
+# https://www.linkedin.com/in/nielsdimmers/
+
+0.0.0.0 nos.nl
+0.0.0.0 tweakers.net
+0.0.0.0 youtube.com
+0.0.0.0 instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 flightradar24.com                                                                                  
